@@ -1,0 +1,15 @@
+[submodule "dep/etpl/master"]
+	path = dep/etpl/master
+	url = git@github.com:ecomfe/etpl.git
+[submodule "dep/mini-event/master"]
+	path = dep/mini-event/master
+	url = git@github.com:ecomfe/mini-event.git
+[submodule "dep/moment/master"]
+	path = dep/moment/master
+	url = git@github.com:moment/moment.git
+[submodule "dep/esui/master"]
+	path = dep/esui/master
+	url = git@github.com:ecomfe/esui.git
+[submodule "dep/underscore/master"]
+	path = dep/underscore/master
+	url = git@github.com:jashkenas/underscore.git
